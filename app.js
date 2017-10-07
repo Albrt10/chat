@@ -9,5 +9,5 @@ app.get("/", function(req, res){
 });
 
 app.listen(8010, function(){
-	console.log("Ejemplo escuchando el puerto 8010");
+	//console.log("Ejemplo escuchando el puerto 8010");
 });
