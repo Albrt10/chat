@@ -1,0 +1,23 @@
+{
+  "name": "chat",
+  "version": "1.0.0",
+  "description": "mi chat",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Albrt10/chat.git"
+  },
+  "author": "Alberto Rojas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Albrt10/chat/issues"
+  },
+  "homepage": "https://github.com/Albrt10/chat#readme",
+  "dependencies": {
+    "express": "^4.16.1",
+    "jade": "^1.11.0"
+  }
+}
